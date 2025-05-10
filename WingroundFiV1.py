@@ -1,4 +1,4 @@
-# analisador_rede_completo_v0.3.2.py
+
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
 import time
